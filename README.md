@@ -132,7 +132,6 @@ plt.show()
 ```
 
 ## Output:
-![WhatsApp Image 2026-02-11 at 10 16 53 AM (1)](https://github.com/user-attachments/assets/64a30831-c873-4f39-9621-60022f2c514a)
 ![WhatsApp Image 2026-02-11 at 10 17 10 AM (1)](https://github.com/user-attachments/assets/f9f946ec-08e2-4095-8a89-3a8c540f15c2)
 ![WhatsApp Image 2026-02-11 at 10 17 17 AM (1)](https://github.com/user-attachments/assets/b3da3422-33bb-4f72-88d9-6479641327f0)
 ![WhatsApp Image 2026-02-11 at 10 17 37 AM (1)](https://github.com/user-attachments/assets/00aa398d-33a8-4593-aab9-23c817ae5704)
